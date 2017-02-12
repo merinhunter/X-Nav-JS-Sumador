@@ -7,4 +7,4 @@ Realiza un sumador como el descrito en el ejercicio “Sumador JavaScript muy si
 
 ## Solución
 
-[Try me!](https://merinhunter.github.io/X-Nav-JS-Sumador/blob/master/sumador-random.html)
+[Try me!](https://merinhunter.github.io/X-Nav-JS-Sumador)
